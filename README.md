@@ -1,7 +1,7 @@
 </div>
 <div align="center">
     <h1> Frogprog Vim Dotfiles</h1>
-    <h4> A light Vim configuration for linux.</h4>
+    <h4> A light Vim configuration for linux. With gruvbox(I absolutely looove gruvbox)</h4>
 </div>
 </div>
 
