@@ -27,6 +27,7 @@ set shiftwidth=2
 set laststatus=2
 set tabpagemax=10
 set hidden
+set clipboard=unnamedplus
 syntax on 
 
 "* Including plugin file if exists *
@@ -41,8 +42,8 @@ nnoremap <C-t> :NERDTreeToggle<CR>
 
 " *Change look of existing plugins and not only*
 
-let g:NERDTreeDirArrowExpandable = ''
-let g:NERDTreeDirArrowCollapsible = ''
+let g:NERDTreeDirArrowExpandable = ' '
+let g:NERDTreeDirArrowCollapsible = ' '
 autocmd vimenter * ++nested colorscheme gruvbox
 
 "AUtocmd FileType nerdtree nmap <buffer> <CR> :tabnew <C-R>=expand("%:p")<CR><CR>
