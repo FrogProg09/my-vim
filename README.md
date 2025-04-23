@@ -13,7 +13,7 @@ Hey! This is my useful yet light vim configuration, I've added here just a coupl
 | Easy comments | [Vim-commentary](https://vimawesome.com/plugin/commentary-vim) |
 | Theme | [Gruvbox](https://vimawesome.com/plugin/gruvbox) |
 
-I've tried to make vim more usable and still not bloated. Mostly I use vim for some fast and light editing, like fast fix in configs. For some heavy projects I prefer lunarvim (still haven't found anything better).
+I've tried to make vim more usable and still not bloated. Mostly I use vim for some fast and light editing, like fast fix in configs. For some heavy projects I prefer using Zed.
 
 ![image alt](https://github.com/FrogProg09/my-vim/blob/9a4dcf0d3dbbedc97d19d50aade3a02d7900f2c9/screenshots/vim_show.png)
 
