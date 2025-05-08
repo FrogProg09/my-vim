@@ -36,7 +36,7 @@ sudo pacman -S gvim
 For Debian based distroes:
 ```bash
 sudo apt-get update
-sudo apt-get install gvim
+sudo apt-get install vim-gtk3
 ```
 
 And to finally install my setup, you can run these 3 commands:
